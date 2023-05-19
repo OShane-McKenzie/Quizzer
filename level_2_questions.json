@@ -1,0 +1,192 @@
+[
+    {
+        "question": "Which of the following best describes a case status marked as 'New' in the JCF Connect Investigation Module?",
+        "options": [
+            "The case has been recently created and not yet submitted.",
+            "The case has been rejected due to lack of evidence.",
+            "The case is currently being investigated.",
+            "The case requires further information before proceeding."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does the 'Requires Completion' status indicate in the JCF Connect Investigation Module?",
+        "options": [
+            "The case is awaiting allocation to an investigator.",
+            "The case is under review for quality assurance.",
+            "The case has been initiated but needs to be completed.",
+            "The case has been rejected and requires closure."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the meaning of 'Requires Assessment/Review' status in the JCF Connect Investigation Module?",
+        "options": [
+            "The case needs to be assigned to a team.",
+            "The case requires a comprehensive review or assessment.",
+            "The case has been completed and closed.",
+            "The case needs more information for further investigation."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the JCF Connect Investigation Module, what does 'Requires QA' mean?",
+        "options": [
+            "The case has been newly filed.",
+            "The case requires Quality Assurance checks.",
+            "The case needs to be allocated to a team.",
+            "The case requires additional data for completion."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In the context of the JCF Connect Investigation Module, what does 'Requires Allocation' imply?",
+        "options": [
+            "The case requires more information.",
+            "The case needs to be assigned to an investigator or a team.",
+            "The case has been completed.",
+            "The case has been rejected."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If a case status is 'Under Investigation' in the JCF Connect Investigation Module, what does it suggest?",
+        "options": [
+            "The case needs more data for completion.",
+            "The case is currently being worked on or investigated.",
+            "The case requires quality assurance.",
+            "The case has been completed and filed."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does the 'Rejected' status mean in the JCF Connect Investigation Module?",
+        "options": [
+            "The case has been refused or dismissed.",
+            "The case is under comprehensive review.",
+            "The case is under investigation.",
+            "The case needs to be assigned to a team."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What does a 'Requires Further Information' status signify in the JCF Connect Investigation Module?",
+        "options": [
+            "The case has been completed.",
+            "The case needs additional data or details to proceed.",
+            "The case is under quality assurance review.",
+            "The case has been assigned to an investigator."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What does the 'Filed' status indicate in the JCF Connect Investigation Module?",
+        "options": [
+            "The case is being investigated.",
+            "The case needs to be allocated to a team.",
+            "The case has been rejected.",
+            "The case has been completed and officially documented."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What is the role of a supervisor in the process of Investigative Review in JCF Connect?",
+        "options": [
+            "Only to update the enquiry log (worksheet)",
+            "Only to generate customer receipt (CR10)",
+            "To ensure all necessary steps in the investigative process are completed accurately",
+            "None of the above"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which one of these items is not directly verified by the supervisor during the Investigative Review process in JCF Connect?",
+        "options": [
+            "The existence of relevant cards",
+            "The recording and attaching of statements",
+            "The recording of officers remaining leave",
+            "The generation of customer receipt (CR10)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What might the supervisor check for any data that may have been overlooked by?",
+        "options": [
+            "The appreciating officer",
+            "The OIC",
+            "Both the appreciating officer and the OIC",
+            "Neither the appreciating officer nor the OIC"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What is the significance of associations in the Investigative Review process in JCF Connect?",
+        "options": [
+            "They are used for meal planning for officers",
+            "They are irrelevant to the Investigative Review process",
+            "They ensure the correct connections are made in the investigative process",
+            "They are a code for undercover operations"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What must be generated as part of the Investigative Review process in JCF Connect?",
+        "options": [
+            "An officer's report card",
+            "A customer receipt (CR10)",
+            "A press release",
+            "A search warrant"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a Decision Log Card in an investigation?",
+        "options": [
+            "To track the number of suspects",
+            "To record the justification of certain lines of enquiry",
+            "To provide suspects with their rights",
+            "To list all evidence found at the crime scene"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When can a user add entries to a decision log or policy file?",
+        "options": [
+            "Only before the investigation is created",
+            "Only after the investigation is created and when it is in progress",
+            "At any point during an investigation",
+            "After the investigation has concluded"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "In which cases is a Decision Log Card generally used?",
+        "options": [
+            "Minor crimes",
+            "Traffic violations",
+            "Serious or complicated crimes",
+            "Civil cases"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What does RADAR in the context of investigations stand for?",
+        "options": [
+            "Radar Analysis of Decision and Reasoning",
+            "Real-time Analysis of Data",
+            "Risk Assessment Data Analysis Review",
+            "Radar Analysis and Data Review"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of the RADAR facility within the application?",
+        "options": [
+            "To monitor weather conditions relevant to the investigation",
+            "To record the daily activities of officers",
+            "To allow external datasets to be searched in addition to the POLE data store",
+            "To track the location of investigating officers"
+        ],
+        "answer": 2
+    }
+]
