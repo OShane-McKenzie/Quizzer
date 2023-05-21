@@ -1,6 +1,7 @@
 {
     "data":{
         "level_2_questions":"https://oshane-mckenzie.github.io/Quizzer/level_2_questions.json",
+        "quizzer":"https://oshane-mckenzie.github.io/Quizzer/quizzer.json",
         "question_list":"https://oshane-mckenzie.github.io/Quizzer/question_list.json"
     }
 }
